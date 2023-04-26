@@ -4,7 +4,7 @@
  * Purpose: Implements website logic for interactive viewing modes, specifically the light-mode to dark-mode.
  * Author: Mahendirakumar Krishnakumar
  * Date: April 22, 2023
- * Version: 1.2
+ * Version: 1.3
  */
 
 // Controls website color scheme for light and dark modes.
