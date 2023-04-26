@@ -4,18 +4,19 @@
     Purpose: CSS stylesheet for portfolio site
     Author: Mahendirakumar Krishnakumar
     Date: April 22, 2023
+    Version: 1.1
 */
 :root {
     --color-primary: #0000ff;
   }
   
   .light-gradient {
-    margin-top: 75px;
+    margin-top: 125px;
     background-image: linear-gradient(90deg, #00aaff, #00fdc2);
   }
 
   .dark-gradient {
-    margin-top: 75px;
+    margin-top: 125px;
     background-image: linear-gradient(90deg, #000000, #656565);
   }
 
